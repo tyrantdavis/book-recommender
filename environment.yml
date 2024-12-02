@@ -1,0 +1,7 @@
+name: rbook-recommender-env
+channels:  
+    - conda-forge
+dependencies:  
+    - python=3.8.18
+    - pandas=2.0.3
+    - surprise 1.1.4
