@@ -17,16 +17,17 @@ By introducing a book recommender system, Books’R’Us seeks to provide person
 
 
 
-#### Why use a multivariate forecasting algorithm to predict future energy output?
+#### Why use a recommendert to make predictions?
 Recommender systems are specialized algorithms designed to analyze data related to products and user preferences, helping users find the most suitable choices from a variety of options available to them. These systems play a crucial role in guiding users toward decisions that align with their tastes and needs.
 
 Typically, these systems leverage machine learning methods to enhance their effectiveness. By analyzing patterns in user behavior and product characteristics, they can provide personalized suggestions that improve the overall user experience.
 
-While the techniques employed may be similar across different applications, the key distinction lies in their intended purpose. Recommender systems focus on solving the challenge of identifying the optimal action for a user among multiple alternatives, whereas supervised learning is primarily concerned with predicting specific outcomes based on labeled data.
+While the techniques employed may be similar across different supervised learning applications, the key distinction lies in their intended purpose. Recommender systems focus on solving the challenge of identifying the optimal action for a user among multiple alternatives, whereas supervised learning is primarily concerned with predicting specific outcomes based on labeled data.
 
 ## Data
 A dataset of books containing 3500 records that can be used to train the machine-learning model has been found. 
 
 
 ## Conclusions
-TBD...
+- The recommender model is highly performant, as indicated by its impressively low RMSE score.
+- The model estimated a likelihood of 3.83, indicating a greater than average probability that the user would appreciate the book recommendation.
