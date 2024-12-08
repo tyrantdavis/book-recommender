@@ -17,7 +17,7 @@ By introducing a book recommender system, Books’R’Us seeks to provide person
 
 
 
-#### Why use a recommendert to make predictions?
+#### Why use a recommender to make predictions?
 Recommender systems are specialized algorithms designed to analyze data related to products and user preferences, helping users find the most suitable choices from a variety of options available to them. These systems play a crucial role in guiding users toward decisions that align with their tastes and needs.
 
 Typically, these systems leverage machine learning methods to enhance their effectiveness. By analyzing patterns in user behavior and product characteristics, they can provide personalized suggestions that improve the overall user experience.
