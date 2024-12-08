@@ -1,4 +1,6 @@
-# Building a Book Recommender System
+# [Building a Book Recommender System](https://nbviewer.org/github/tyrantdavis/book-recommender/blob/master/books.ipynb)
+
+Click the title for a project demo.
 
 ## Introduction
 Recommender systems play a crucial role in various organizations by assisting users in making informed choices, while also helping companies boost their revenue. Creating a basic recommender system can be a quick and straightforward process. This project will develop a book recommendation system for Books’R’Us utilizing the Surprise library.
